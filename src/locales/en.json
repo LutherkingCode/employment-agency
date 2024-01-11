@@ -1,0 +1,36 @@
+
+{
+    "navBar": {
+      "home": "Home",
+      "service": "Service",
+      "about": "About",
+      "contact": "Contact"
+    },
+
+    "accueil": {
+      "title": "Welcome to our website!",
+      "content": "This is the homepage content."
+    },
+
+    "service": {
+      "title": "Our Services",
+      "content": "Here are our services."
+    },
+    
+    "apropos": {
+      "title": "About Us",
+      "content": "Learn more about us."
+    },
+    "contact": {
+      "title": "Contact Us",
+      "content": "Get in touch with us."
+    },
+    "pageNotFound": {
+      "title": "Page Not Found",
+      "content": "Sorry, the page you are looking for does not exist."
+    },
+    "footer": {
+      "copyright": "All rights reserved."
+    }
+  }
+  
