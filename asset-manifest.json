@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/employment-agencyyy/static/css/main.e3e899c4.css",
+    "main.js": "/employment-agencyyy/static/js/main.d8c3f5d9.js",
+    "static/js/787.cda612ba.chunk.js": "/employment-agencyyy/static/js/787.cda612ba.chunk.js",
+    "index.html": "/employment-agencyyy/index.html",
+    "main.e3e899c4.css.map": "/employment-agencyyy/static/css/main.e3e899c4.css.map",
+    "main.d8c3f5d9.js.map": "/employment-agencyyy/static/js/main.d8c3f5d9.js.map",
+    "787.cda612ba.chunk.js.map": "/employment-agencyyy/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3e899c4.css",
+    "static/js/main.d8c3f5d9.js"
+  ]
+}
